@@ -7,7 +7,7 @@ const columns = [
     { field: 'name', headerName: 'Nombres', width: '180'},
     { field: 'lastName', headerName: 'Apellidos', width: '180'},
     { field: 'vaccineState', headerName: 'Vacunado', width: '140'},
-    { field: 'vaccine', headerName: 'Tipo de Vacuna', width: '240'},
+    { field: 'covidVaccine', headerName: 'Tipo de Vacuna', width: '240'},
     { field: 'vaccineDate', headerName: 'Fecha de Vacunación', width: '220'}
 ]
 const UserList = () => {
