@@ -8,17 +8,16 @@ Debes dirigirte a cada una de las carpetas y seguir los siguientes pasos
 
 ## Run Locally
 
-Clonar el proyecto
+Clonar el backend
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yuniela/reto-back.git
 ```
 
 Go to the project directory
 
 ```bash
   cd reto-krugger
-  cd register-back
 ```
 
 Instalar dependencias
