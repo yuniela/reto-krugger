@@ -33,6 +33,17 @@ Start the server
   npm run start
 ```
 
+## Login 
+ADMIN USER
+email: yunielasolorzano@gmail.com
+Password: lWfjDAaLzd
+
+USER
+email: eveyusol@espol.edu.ec
+password: I0ewkD8odH
+
+Puedes Crear un usuario y le llegara un mail con el password se creara con el role USER por defecto
+
 ## Running Tests
 
 Para correr test en el front debes escribir el siguiente comando
