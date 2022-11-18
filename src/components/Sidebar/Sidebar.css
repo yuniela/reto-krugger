@@ -1,0 +1,23 @@
+.sidebar {
+    color: #fff;
+    font-size: 1rem;
+    background-color: #042342;
+    width: 18rem;
+    height: 100vh;
+    border-right: 1px solid #c4c4c4;
+    text-align: left;
+}
+
+div ul {
+    list-style: none;
+    padding: 1rem 2rem;
+}
+
+div ul li {
+    margin: 1rem 0;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}

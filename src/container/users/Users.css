@@ -1,0 +1,12 @@
+.users-table{
+    text-align: center;
+    width: 100%;
+    align-items: center ;
+}
+
+.users-tittle{
+    padding-top: 3rem;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #042342;
+}

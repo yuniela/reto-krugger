@@ -1,0 +1,48 @@
+.profile-form{
+    background-color: #FFFFFF;
+    overflow-y: scroll;
+    height: calc(100vh - 4rem);
+    max-height: calc(100vh - 4rem);
+}
+
+.alert-error {
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding: 5px
+}
+
+.title {
+    color: #042342;
+    text-align: left;
+    font-family: 'open sans', sans-serif;
+    padding: 2rem 1rem;
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 2rem;
+    max-width: 80%;    
+}
+
+.input-form{
+    width: 80%;
+    box-sizing: border-box;
+    border: none;
+    font-size: 1.2rem;
+    padding-left: 1.5rem;
+    padding-bottom: 1rem;
+    box-shadow: inset 0px -3px 0px 0px #042342;
+    transition: box-shadow 0.2s ease-in;
+  }
+
+.calendar {
+    z-index: 10;
+}
